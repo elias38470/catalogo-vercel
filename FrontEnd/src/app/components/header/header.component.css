@@ -1,0 +1,16 @@
+.header {
+    background-color: black;
+}
+.header .container{
+    display: flex;
+}
+.header p{
+    color: rgba(255, 255, 255, 0.903);
+    margin-top: 5%;
+    margin-left: 5%;
+    font-family: Homer Simpson UI;
+    font-size: xx-large;
+}
+.logo{
+    height: 150px;
+}
